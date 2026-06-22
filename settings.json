@@ -30,11 +30,7 @@
       "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "just a bot",
-        "im bot,
-        "bot"
-      ]
+      "messages": 
     },
     "chat-log": true,
     "auto-reconnect": true,
